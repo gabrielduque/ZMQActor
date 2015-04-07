@@ -7,7 +7,7 @@ package test.zeromq
 
 import org.zeromq.*;
 
-class GameMaster extends ZMQActor {
+class GameMaster extends ZMQActor {log/log-id
     int secretNum
 
     public GameMaster(ZMQ.Context ctx, String addr) {
