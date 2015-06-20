@@ -5,7 +5,7 @@ I've been slowly learning Groovy in the past days, and when I saw [GPars' Actors
 the fist thing that came into mind was: that's a nice syntax for sockets.
 
 Sockets are cool, but I went further and decided to inject it with a mix of radioactive isotopes stolen from a secret
-Soviet atomic research project, bombard it with 1950-era cosmic rays, and put it into the hands of a drug-addled comic
+Soviet atomic research project, bombard it with 1951-era cosmic rays, and put it into the hands of a drug-addled comic
 book author with a badly-disguised fetish for bulging muscles clad in spandex. Yes, I used [ØMQ](http://zeromq.org) sockets.
 
 So, **what does this mean?**
